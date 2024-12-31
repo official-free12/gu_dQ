@@ -1,0 +1,6 @@
+# 股票配资/策略系统  完美运营版
+
+前端演示http://example.com.example.com;测试号13500000001密码123456<br>后台演示http://example.com.example.com/admin?upw=61b5e8b223ed2511edac83rer34sfe4<br>      后台账号administrator 密码 123456 验证码8426<br>----------请各位！养成良好的购物习惯【避免不必要的麻烦】----------<br>example.com，没演示的先联系客服询问完在下单。<br>example.com，看客服有没有时间提供安装服务在下单，避免不必要的误会。<br>example.com，买之前联系客服看看演示进行测试，测试多久都行，客服会配合你，请确保要的是演示站这种在下单。<br>example.com，且本站服务仅包括提供源码+有偿安装。<br>example.com，请换个QQ添加，近期发现不少小伙伴的QQ添加不上。<br>example.com，源码紧保证跟演示一样。下单之后（因源码具有可复制性）不予退款。<br>example.com。请不要下单，不要下单，不要下单,下单默认同意以上条款。<br>特此声明：源码不得使用于非法用途，不得违反国家法律，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/b51sA" style="color: red;">https://mega-file.org/b51sA</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
